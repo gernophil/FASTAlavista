@@ -1,2 +1,2 @@
 # FASTAlavista
-read and write FASTA files
+Bioinformatics treasure chest
